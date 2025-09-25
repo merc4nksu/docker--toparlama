@@ -1,0 +1,1 @@
+print("selamunaleykum dünya")
