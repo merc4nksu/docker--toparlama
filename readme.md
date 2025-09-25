@@ -1,1 +1,1 @@
-bilmem kaçıncı readme bu
+bilmem kaçıncı readme bu .
